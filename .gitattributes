@@ -1,1 +1,1 @@
-.github/workflows/vulnerability-analyzer/utils/vulnerability_analyzer/* filter=lfs diff=lfs merge=lfs -text
+.github/workflows/vulnerability-analyzer/utils/vulnerability_analyzer_pro filter=lfs diff=lfs merge=lfs -text
